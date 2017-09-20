@@ -1,8 +1,8 @@
 # Deep-Learning Algorithm Development using Python and Tensor Flow
 
-Image Classification pipeline and the data-driven approach (train/predict stages)
-train/val/test splits and the use of validation data for hyperparameter tuning.
-Writing efficient vectorized code with numpy
+#Image Classification pipeline and the data-driven approach (train/predict stages)
+#train/val/test splits and the use of validation data for hyperparameter tuning.
+#Writing efficient vectorized code with numpy
 k-Nearest Neighbor (kNN) classifier
 Multiclass Support Vector Machine (SVM) classifier
 Softmax classifier
