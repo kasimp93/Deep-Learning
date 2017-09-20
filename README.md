@@ -15,4 +15,4 @@
 13. Batch normalization for training deep networks <br />
 14. Dropout to regularize networks <br />
 15. Cross-validate and find the best hyperparameters for Neural Network architecture <br />
-16. Architecture of Convolutional Neural Networks and train gain experience with training these models on data <br />
+16. Architecture of Convolutional Neural Networks and training these models on data usign TensorFlow <br />
