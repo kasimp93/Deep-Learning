@@ -14,5 +14,5 @@
 12. Update rules used to optimize Neural Networks  <br />
 13. Batch normalization for training deep networks <br />
 14. Dropout to regularize networks <br />
-15. Cross-validate and find the best hyperparameters for Neural Network architecture <br />
+15. Finding the best hyperparameters for Neural Network architecture using Cross-validation<br />
 16. Architecture of Convolutional Neural Networks and training these models on data usign TensorFlow <br />
