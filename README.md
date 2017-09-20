@@ -1,4 +1,4 @@
-# Deep-Learning Algorithm Development using Python and Tensor Flow
+# Deep-Learning Algorithm Development using Python and TensorFlow
 
 1. Image Classification pipeline and the data-driven approach (train/predict stages)  <br />
 2. train/val/test splits and the use of validation data for hyperparameter tuning. <br />
